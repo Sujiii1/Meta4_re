@@ -1,7 +1,0 @@
-A - ddk
-B- 가
-C- 나
-new_1
-
-AA
-BB
